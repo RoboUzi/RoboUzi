@@ -6,7 +6,7 @@
 
 <br />
 
-    ```py
+```py
 from datetime import date
 
 class AboutMe():
